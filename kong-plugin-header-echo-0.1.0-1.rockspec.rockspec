@@ -1,11 +1,11 @@
 package = "kong-plugin-header-echo"
 version = "0.1.0-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
+   url = "https://github.com/AmalAntonyUnity/kong-plugin-header-echo.git"
 }
 description = {
-   homepage = "*** please enter a project homepage ***",
-   license = "*** please specify a license ***"
+   homepage = "",
+   license = "Apache-2.0"
 }
 dependencies = {}
 build = {
